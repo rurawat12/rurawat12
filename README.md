@@ -2,7 +2,6 @@
 - 👀 I’m interested in infrastructure automations and aws cloud 
 - 🌱 I’m currently learning kubernetes
 - 💞️ I’m looking to collaborate on terraform modules
-- 📫 How to reach me pythonninja12@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i love cooking and singing
 
